@@ -63,7 +63,7 @@ To experience the powerful features of the LGPL version, you can download the ap
 |Use memory cache for fast seek in short time range|✅|❌|
 |KSMEPlayer supports all demuxing and decoding formats|✅|❌|
 |Full display of ass subtitles effect(Render as image using libass)|✅|❌|
-|FFmpeg version|8.1.2|6.1.0|
+|FFmpeg version|9.0.1|6.1.0|
 |Record video|✅|✅|
 |4k/HDR/HDR10|✅|✅|
 |360° panorama video|✅|✅|
@@ -93,6 +93,7 @@ This table does not list all licensed apps. If you would like to have your app l
 |[IPTV +](https://apps.apple.com/app/iptv-my-smart-iptv-player/id1525121231)||
 |[LillyPlayer Video Player](https://apps.apple.com/app/lillyplayer-video-player/id1446967273)||
 |[MyKroko](https://apps.apple.com/cn/app/mykroko/id6758295863)||
+|[SeeTV]()||
 |[SenPlayer](https://apps.apple.com/app/senplayer-hdr-media-player/id6443975850)||
 |[Smart IPTV](https://apps.apple.com/app/smart-iptv-tv-and-movies-ott/id1492738910)||
 |[Snappier IPTV](https://apps.apple.com/app/snappier-iptv/id1579702567)||
