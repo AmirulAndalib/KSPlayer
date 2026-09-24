@@ -63,7 +63,7 @@ To experience the powerful features of the LGPL version, you can download the ap
 |Use memory cache for fast seek in short time range|✅|❌|
 |KSMEPlayer supports all demuxing and decoding formats|✅|❌|
 |Full display of ass subtitles effect(Render as image using libass)|✅|❌|
-|FFmpeg version|9.0.1|6.1.0|
+|FFmpeg version|9.0.2|6.1.0|
 |Record video|✅|✅|
 |4k/HDR/HDR10|✅|✅|
 |360° panorama video|✅|✅|
@@ -343,14 +343,12 @@ Your user icon or company logo shows up this with a link to your home page.
 |[CodingByJerez](https://github.com/CodingByJerez)||
 |[andrefmsilva](https://github.com/andrefmsilva)||
 |[romaingyh](https://github.com/romaingyh)|[Zen IPTV](https://apps.apple.com/fr/app/zen-iptv/id6458223193)||
-|[FantasyKingdom](https://github.com/FantasyKingdom)|[Senplayer](https://apps.apple.com/us/app/senplayer-hdr-media-player/id6443975850)||
-|[aart-rainey](https://github.com/aart-rainey)||
+|[archrainey ](https://github.com/archrainey)||
 |[nihalahmed](https://github.com/nihalahmed)||
 |[johnil](https://github.com/johnil)||
 |[MeloDreek](https://github.com/MeloDreek)||
 |[nsplay1990](https://github.com/nsplay1990)||
 |[AppleChillVibez](https://github.com/AppleChillVibez)||
-|[stekc](https://github.com/stekc)||
 |[bmob222](https://github.com/bmob222)||
 |[pateltejas](https://github.com/pateltejas)||
 |[ewanl2001](https://github.com/ewanl2001)||
